@@ -1,0 +1,33 @@
+
+.search-card {
+    width: 80%;
+    border-radius: 20px;
+    border: none;
+  }
+  .img-logo {
+    width: 300px;
+  }
+  #detail-order {
+    background: #4D639B;
+    color: white;
+    border: none;
+  }
+  .login-title {
+    font-size: 24px;
+    color: #464646;
+    }
+  @media screen and (max-width: 768px) {
+      .logo {
+        width: 250px;
+        height: 70px;
+      }
+    
+      .card-title {
+        font-size: 24px;
+      }
+    
+      .form-group {
+        margin-bottom: 20px;
+      }
+    }
+    
